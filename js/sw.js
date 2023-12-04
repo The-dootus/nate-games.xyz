@@ -2,7 +2,7 @@ var allowedDomains = [
   "https://nate-games.xyz",
   "https://old.nate-games.xyz",
   "http://localhost:8080",
-  "http://localhost:53483",
+  "https://pxpgrp-8080.csb.app/",
 ];
 
 var currentDomain = window.location.origin;
